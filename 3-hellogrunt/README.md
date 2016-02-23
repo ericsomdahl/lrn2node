@@ -1,6 +1,14 @@
 # 3-hellogrunt
 
-The best project ever.
+First install grunt globally:
+```
+sudo npm install -g grunt-cli
+sudo npm install -g grunt-init
+git clone https://github.com/gruntjs/grunt-init-node.git ~/.grunt-init/node
+cd <some-dir>
+grunt-init node
+```
+and then answer the questions!
 
 ## Getting Started
 Install the module with: `npm install 3-hellogrunt`
