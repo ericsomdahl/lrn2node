@@ -1,14 +1,15 @@
 # 3-hellogrunt
 
-First install grunt globally:
+Start Here!
 ```
 sudo npm install -g grunt-cli
 sudo npm install -g grunt-init
 git clone https://github.com/gruntjs/grunt-init-node.git ~/.grunt-init/node
 cd <some-dir>
 grunt-init node
+npm install
 ```
-and then answer the questions!
+answer the questions before the install!
 
 ## Getting Started
 Install the module with: `npm install 3-hellogrunt`
