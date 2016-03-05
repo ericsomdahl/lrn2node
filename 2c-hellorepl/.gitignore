@@ -1,0 +1,6 @@
+**/*.js
+**/*.js.map
+out/*
+**/*.swp
+**/node_modules/*
+**/.repl*
